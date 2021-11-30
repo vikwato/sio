@@ -1,2 +1,2 @@
-# SIO Intern
-Repository for the SIO Intern Quiz
+# SIO Git Test
+Repository for the SIO Git Quiz
