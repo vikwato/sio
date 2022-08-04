@@ -18,6 +18,8 @@ print("My name is Vikwato Kamanga.\n"
       "I enjoy programming, data management and system administration\n"
       "Outside work, I enjoy watching and playing sport, listening to music, playing video games and watching TV.")
 
+print("My name is Jonas mwansa, am an aspiring full stack developer, I am a recent computer Engineering graduae")
+
 
 print("My name is Kutemba Kakoma.\n"
       "I am a recent computer scince graduate from the university of zambia\n"
