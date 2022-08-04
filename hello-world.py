@@ -1,4 +1,10 @@
 
+print("My name is Stephen Lungo.\n"
+      "I hold a bachelors Degree ii Information Technology\n"
+      
+     )
+
+
 print("Andrew's Branch.\n"
 "Details will be added later")
 
@@ -12,4 +18,4 @@ print("My name is Kutemba Kakoma.\n"
       "I am a recent computer scince graduate from the university of zambia\n"
       "I am passionate about data science\n"
 
-      
+
